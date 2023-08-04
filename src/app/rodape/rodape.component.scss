@@ -1,0 +1,23 @@
+@import "../app.component.scss";
+
+.container{
+    display: flex;
+    width: 100%;
+    padding-top: 5px;
+    background-color: $cor-secundaria;
+    color: $branco;
+    padding: 20px 0;
+    font-size: $media;
+    margin-top: 20px;
+    .div-icons{
+        filter: invert(100%);
+        margin-right: 10px; 
+        margin-left: 5px;
+    }
+    .texto-rodape{
+        //margin: auto;
+        padding-top: 5px;
+        padding-left: 10%;
+        padding-right: 37%;
+    }
+}
