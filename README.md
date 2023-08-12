@@ -1,9 +1,9 @@
 # Projeto Imobiliária Lar Feliz
-## Projeto desenvolvido em Angular pela turma 1029
+## Projeto desenvolvido em Angular no curso Start Tech TOTVS
 
 ![Print do projeto](https://i.ibb.co/5n4dtv9/Screenshot-2023-08-04-at-16-36-18.png)]
 
-Este é um projeto desenvolvido em Angular pela turma 1029 da Start Tech TOTVS durante o módulo 03.
+Este é um projeto desenvolvido em Angular no curso Start Tech TOTVS durante o módulo 03.
 
 ## Tecnologias Aplicadas
 - Angular
@@ -15,7 +15,7 @@ Angular precisa do [Node.js](https://nodejs.org/) v16+ para funcionar.
 
 Clonar o repositório e entrar na pasta do projeto
 ```sh
-git clone https://github.com/roofranklin/angular_01.git
+git clone https://github.com/Ana-Katharine/LarFeliz-Imoveis.git
 cd angular_01
 ```
 
